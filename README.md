@@ -32,13 +32,9 @@ Il s'agit d'une mise en situation réaliste simulée localement, avec des fichie
    - Analyse par campagne
    - Problématiques métiers et insights intégrés
 
-
-
 ---
 
----
-
-## 🖥️ Démonstration
+## 🖥️ Dashboard
 
 📍 Dashboard Google Ads (interactif) :  
 👉 [Voir dans Looker Studio](https://lookerstudio.google.com/reporting/ccd7ee89-f670-4fb7-ba6d-96637661b92b)
