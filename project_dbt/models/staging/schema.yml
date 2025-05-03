@@ -1,0 +1,126 @@
+version: 2
+
+
+
+sources:
+  - name: marketing
+    schema: marketing
+    tables:
+      - name: raw_facebook_ads_campaigns
+      - name: raw_google_ads_campaigns
+      - name: raw_email_campaigns
+      - name: raw_crm_leads
+
+models:
+  - name: stg_google_ads_campaigns
+    description: "Campagnes Google Ads nettoyées, typées et prêtes à être utilisées pour l’analyse marketing"
+    columns:
+      - name: campaign_id
+        description: "Identifiant unique de la campagne Google"
+      - name: campaign_name
+        description: "Nom de la campagne"
+      - name: ad_group_name
+        description: "Nom du groupe d'annonces"
+      - name: keyword
+        description: "Mot-clé déclencheur de l’annonce"
+      - name: match_type
+        description: "Type de correspondance du mot-clé (EXACT, BROAD, PHRASE)"
+      - name: device
+        description: "Type d’appareil (desktop, mobile, tablet)"
+      - name: campaign_date
+        description: "Date de diffusion de la campagne"
+      - name: clicks
+        description: "Nombre de clics"
+      - name: impressions
+        description: "Nombre d’impressions"
+      - name: cost
+        description: "Montant dépensé (en euros)"
+      - name: conversions
+        description: "Nombre de conversions enregistrées"
+      - name: utm_campaign
+        description: "Nom de campagne pour jointure avec le CRM"
+      - name: source
+        description: "Source fixe 'google'"
+
+  - name: stg_facebook_ads_campaigns
+    description: "Campagnes Facebook Ads nettoyées, typées et prêtes pour l’analyse multi-source"
+    columns:
+      - name: ad_id
+        description: "Identifiant unique de l’annonce"
+      - name: adset_id
+        description: "Identifiant du groupe d’annonces"
+      - name: campaign_id
+        description: "Identifiant de la campagne"
+      - name: campaign_name
+        description: "Nom de la campagne Facebook"
+      - name: adset_name
+        description: "Nom du groupe d’audience ciblé"
+      - name: campaign_date
+        description: "Date de diffusion"
+      - name: publisher_platform
+        description: "Plateforme de diffusion (facebook, instagram, etc.)"
+      - name: platform_position
+        description: "Emplacement de la pub (feed, story...)"
+      - name: impressions
+        description: "Nombre d’impressions"
+      - name: clicks
+        description: "Nombre de clics"
+      - name: cost
+        description: "Coût en euros"
+      - name: conversions
+        description: "Nombre de conversions"
+      - name: utm_campaign
+        description: "Nom de la campagne pour jointure CRM"
+      - name: source
+        description: "Source fixée à 'facebook'"
+
+  - name: stg_email_campaigns
+    description: "Campagnes emailing enrichies et prêtes à être croisées avec les données CRM"
+    columns:
+      - name: campaign_id
+        description: "Identifiant unique de la campagne emailing"
+      - name: subject
+        description: "Objet de l’email"
+      - name: utm_campaign
+        description: "Nom de la campagne pour jointure CRM"
+      - name: campaign_date
+        description: "Date d’envoi de l’email"
+      - name: recipients
+        description: "Nombre total de destinataires"
+      - name: open_rate
+        description: "Taux d’ouverture (0.1 = 10%)"
+      - name: click_rate
+        description: "Taux de clic (0.1 = 10%)"
+      - name: unsubscribes
+        description: "Nombre de désinscriptions"
+      - name: conversions
+        description: "Nombre de conversions issues de l’email"
+      - name: revenue
+        description: "Revenu généré par cette campagne"
+      - name: source
+        description: "Source fixée à 'email'"
+
+  - name: stg_crm_leads
+    description: "Leads CRM enrichis, typés et prêts à être croisés avec les campagnes marketing"
+    columns:
+      - name: lead_id
+        description: "Identifiant unique du lead"
+      - name: user_id
+        description: "Identifiant utilisateur (pour tracking ou analyse client)"
+      - name: date_created
+        description: "Date de création du lead"
+      - name: status
+        description: "Statut du lead : converted, open, lost"
+      - name: deal_stage
+        description: "Étape du processus commercial (contacted, proposal, won, lost)"
+      - name: revenue
+        description: "Montant associé au lead (0 si non converti)"
+      - name: utm_source
+        description: "Origine d’acquisition (google, facebook, email)"
+      - name: utm_medium
+        description: "Type de canal (cpc, email...)"
+      - name: utm_campaign
+        description: "Nom de la campagne pour jointure avec les sources d'acquisition"
+      - name: is_converted
+        description: "Indicateur binaire (true = lead converti, false = sinon)"
+

@@ -1,0 +1,181 @@
+campaign_id,subject,utm_campaign,date_sent,recipients,open_rate,click_rate,unsubscribes,conversions,revenue
+EM-001,Offre spéciale assurance auto,leads_auto,2025-04-07,1346,0.41,0.16,0,34,766.87
+EM-001,Offre spéciale assurance auto,leads_auto,2025-04-05,2634,0.26,0.22,10,7,2546.56
+EM-001,Offre spéciale assurance auto,leads_auto,2025-03-17,1478,0.15,0.04,10,33,2364.83
+EM-001,Offre spéciale assurance auto,leads_auto,2025-04-04,1490,0.12,0.05,7,21,962.76
+EM-001,Offre spéciale assurance auto,leads_auto,2025-03-19,2438,0.45,0.44,10,8,4386.04
+EM-001,Offre spéciale assurance auto,leads_auto,2025-03-22,2781,0.39,0.32,8,50,722.02
+EM-001,Offre spéciale assurance auto,leads_auto,2025-04-01,2809,0.51,0.35,1,42,3824.27
+EM-001,Offre spéciale assurance auto,leads_auto,2025-03-20,1252,0.47,0.46,3,10,1515.64
+EM-001,Offre spéciale assurance auto,leads_auto,2025-04-02,1768,0.55,0.1,3,38,4232.29
+EM-001,Offre spéciale assurance auto,leads_auto,2025-03-22,2865,0.13,0.08,4,26,149.91
+EM-001,Offre spéciale assurance auto,leads_auto,2025-04-01,1613,0.39,0.29,0,10,3243.96
+EM-001,Offre spéciale assurance auto,leads_auto,2025-03-21,1805,0.31,0.09,2,0,0.0
+EM-001,Offre spéciale assurance auto,leads_auto,2025-04-10,2727,0.48,0.46,0,12,1390.42
+EM-001,Offre spéciale assurance auto,leads_auto,2025-03-24,2018,0.45,0.19,7,1,4733.74
+EM-001,Offre spéciale assurance auto,leads_auto,2025-04-15,1425,0.26,0.17,4,47,4223.49
+EM-001,Offre spéciale assurance auto,leads_auto,2025-04-08,1459,0.23,0.11,2,29,4665.83
+EM-001,Offre spéciale assurance auto,leads_auto,2025-04-11,1136,0.37,0.04,4,49,2453.05
+EM-001,Offre spéciale assurance auto,leads_auto,2025-03-18,2135,0.22,0.16,10,20,4565.57
+EM-001,Offre spéciale assurance auto,leads_auto,2025-03-27,2095,0.34,0.17,0,12,2704.72
+EM-001,Offre spéciale assurance auto,leads_auto,2025-03-29,1071,0.54,0.33,4,16,4160.13
+EM-001,Offre spéciale assurance auto,leads_auto,2025-04-12,1605,0.35,0.13,5,41,1709.4
+EM-001,Offre spéciale assurance auto,leads_auto,2025-04-10,1161,0.21,0.14,6,9,1494.67
+EM-001,Offre spéciale assurance auto,leads_auto,2025-03-30,1106,0.37,0.26,7,13,2718.32
+EM-001,Offre spéciale assurance auto,leads_auto,2025-03-28,2845,0.36,0.28,5,31,1519.09
+EM-001,Offre spéciale assurance auto,leads_auto,2025-04-05,2927,0.42,0.4,5,21,809.05
+EM-001,Offre spéciale assurance auto,leads_auto,2025-04-08,922,0.13,0.12,2,4,578.32
+EM-001,Offre spéciale assurance auto,leads_auto,2025-03-20,1660,0.59,0.26,4,32,4746.27
+EM-001,Offre spéciale assurance auto,leads_auto,2025-04-13,2650,0.52,0.25,10,2,3583.9
+EM-001,Offre spéciale assurance auto,leads_auto,2025-03-19,1236,0.47,0.47,5,22,536.96
+EM-001,Offre spéciale assurance auto,leads_auto,2025-04-08,2823,0.44,0.28,3,45,2806.94
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-03-17,1561,0.43,0.42,8,20,4884.18
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-04-15,1019,0.26,0.03,10,11,2694.08
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-04-02,2645,0.37,0.33,7,30,609.24
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-03-31,1388,0.39,0.22,2,19,608.9
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-03-17,1693,0.36,0.3,5,14,3690.48
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-04-02,821,0.4,0.19,1,9,1219.77
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-03-19,2290,0.29,0.25,4,21,3213.29
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-03-31,1350,0.24,0.23,6,36,3252.09
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-04-14,2105,0.53,0.49,3,2,1827.22
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-03-29,1312,0.35,0.31,5,35,3527.92
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-03-29,1734,0.27,0.13,5,27,2200.67
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-04-16,1311,0.15,0.14,6,25,4003.66
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-03-31,1154,0.48,0.2,0,30,4021.89
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-03-28,2737,0.19,0.12,1,6,3543.98
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-04-09,1448,0.22,0.07,4,11,2689.69
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-04-07,1963,0.31,0.29,9,38,2120.4
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-03-27,2390,0.25,0.23,8,16,4284.7
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-03-28,1858,0.37,0.19,0,7,1823.84
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-03-29,1881,0.27,0.1,5,30,1147.57
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-04-13,1240,0.39,0.05,2,41,425.36
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-04-02,1418,0.4,0.05,7,14,2485.53
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-03-27,2283,0.37,0.02,7,5,4651.56
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-03-27,2722,0.15,0.02,5,40,1448.59
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-04-04,1406,0.22,0.05,5,24,4074.79
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-03-30,1455,0.24,0.1,4,40,842.42
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-03-20,1992,0.53,0.22,2,10,3613.15
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-03-26,941,0.17,0.03,6,21,740.03
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-03-18,1788,0.53,0.37,3,47,1797.21
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-03-19,2184,0.4,0.38,1,7,1720.56
+EM-002,Promo printemps sur l'habitation,promo_printemps,2025-04-16,1881,0.4,0.38,4,19,3028.53
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-04-09,2461,0.16,0.1,9,37,167.62
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-03-23,2659,0.34,0.2,5,17,3208.87
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-04-04,1894,0.46,0.4,6,2,643.66
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-04-03,2573,0.52,0.07,6,35,3954.4
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-03-24,1820,0.38,0.07,9,10,636.37
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-03-18,2909,0.55,0.16,1,49,4359.55
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-03-28,2290,0.45,0.25,10,26,2792.29
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-03-21,2977,0.13,0.11,4,45,1067.79
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-03-18,901,0.48,0.18,6,34,1863.56
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-03-30,859,0.12,0.11,0,35,206.48
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-04-07,2688,0.27,0.24,2,9,4246.84
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-03-19,907,0.58,0.36,10,44,4307.34
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-04-10,1785,0.43,0.11,0,15,1815.06
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-04-01,2598,0.58,0.33,3,43,4258.37
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-04-03,2625,0.17,0.02,6,6,221.11
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-04-06,1031,0.56,0.38,2,39,3054.69
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-03-26,2808,0.16,0.07,1,21,3441.13
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-03-19,1397,0.23,0.22,9,30,3284.07
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-03-27,1598,0.55,0.53,10,47,2392.21
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-04-15,2943,0.34,0.18,8,15,4861.02
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-04-07,1599,0.43,0.18,6,21,3055.64
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-04-13,2594,0.2,0.09,10,2,4739.39
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-03-27,1591,0.51,0.28,8,46,1530.14
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-03-25,1378,0.18,0.02,0,0,0.0
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-04-06,1427,0.36,0.11,0,13,1116.01
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-04-01,2941,0.16,0.12,9,47,3303.63
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-03-23,2143,0.4,0.33,1,20,670.77
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-03-30,1938,0.19,0.05,1,12,838.15
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-03-29,2017,0.15,0.03,2,18,2151.61
+EM-003,Mutuelle famille - Jusqu’à 30% offerts,assurance_sante,2025-04-15,1765,0.4,0.07,3,46,2677.8
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-03-29,1389,0.12,0.02,0,9,506.43
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-04-11,2064,0.49,0.34,3,42,4419.66
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-04-16,2053,0.5,0.3,3,30,271.72
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-04-06,1094,0.37,0.29,10,19,4371.19
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-03-21,2721,0.56,0.43,6,40,1142.33
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-04-02,882,0.48,0.05,4,33,1211.52
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-03-22,1980,0.31,0.06,2,37,1204.2
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-04-13,1767,0.23,0.2,8,7,101.45
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-03-22,2151,0.13,0.05,6,21,1903.45
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-04-15,1323,0.32,0.3,4,44,3130.16
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-03-25,2781,0.13,0.02,4,2,2839.16
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-04-03,1929,0.49,0.06,4,36,1500.33
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-03-25,1716,0.54,0.38,7,8,4084.15
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-04-10,2118,0.58,0.03,7,46,2134.61
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-03-27,1019,0.36,0.01,9,46,4980.44
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-04-06,1759,0.47,0.32,5,20,4495.44
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-03-25,1943,0.58,0.49,2,23,2101.93
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-03-20,961,0.55,0.52,3,4,3321.27
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-04-06,2247,0.5,0.02,4,33,682.04
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-04-15,1055,0.29,0.19,0,48,391.28
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-03-26,1174,0.27,0.03,0,23,4617.47
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-03-22,2317,0.36,0.07,9,18,1972.83
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-04-15,2876,0.59,0.01,2,11,2168.99
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-04-15,1520,0.12,0.04,10,47,1514.14
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-03-17,2337,0.36,0.2,1,30,2865.29
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-03-19,1055,0.16,0.1,9,29,1831.05
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-04-16,1463,0.39,0.32,9,44,484.28
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-04-12,1530,0.4,0.12,5,4,1893.67
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-03-20,815,0.39,0.11,0,41,3168.08
+EM-004,Protégez votre logement cet hiver,offre_hiver,2025-03-19,1180,0.34,0.32,1,47,2162.66
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-04-11,2262,0.12,0.1,1,2,3418.53
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-04-06,2113,0.25,0.06,4,9,4119.05
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-03-25,1338,0.36,0.21,7,45,4939.85
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-04-11,1460,0.15,0.07,6,37,168.38
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-03-24,2077,0.58,0.55,0,43,1644.31
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-03-31,1270,0.34,0.15,10,39,2020.86
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-03-17,1515,0.28,0.01,2,49,487.57
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-04-15,2698,0.16,0.12,0,34,4047.96
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-04-07,2779,0.32,0.12,7,13,2299.28
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-04-11,2133,0.4,0.25,5,33,400.13
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-04-04,2402,0.27,0.13,10,50,3998.3
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-04-08,2773,0.11,0.03,6,11,2889.81
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-03-29,2481,0.14,0.03,5,42,1508.8
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-04-07,2361,0.31,0.14,1,21,2450.41
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-04-03,1143,0.29,0.12,8,31,2317.54
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-04-15,2011,0.4,0.14,9,14,3545.25
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-03-20,1912,0.23,0.17,0,33,2937.64
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-04-12,2691,0.52,0.36,1,5,3901.03
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-03-29,2286,0.3,0.23,6,11,864.03
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-04-05,1011,0.35,0.21,8,45,3314.35
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-04-06,845,0.54,0.21,9,49,241.67
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-04-04,2347,0.3,0.03,1,25,1954.43
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-03-17,1009,0.25,0.25,5,30,2627.5
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-04-09,980,0.48,0.23,0,27,162.45
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-03-25,2466,0.57,0.51,0,22,4047.51
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-04-01,1267,0.13,0.04,5,18,2364.77
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-03-28,1232,0.15,0.13,7,36,1926.76
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-03-17,1091,0.37,0.34,5,9,2815.32
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-04-14,1467,0.2,0.02,5,16,4782.85
+EM-005,Jeunes actifs ? Assurez-vous dès 9€/mois,pack_jeunes,2025-04-09,2356,0.39,0.02,6,25,4003.36
+EM-006,Assurance habitation pour familles,pack_famille,2025-03-21,1901,0.52,0.17,2,45,4528.41
+EM-006,Assurance habitation pour familles,pack_famille,2025-04-01,826,0.28,0.17,4,36,4744.32
+EM-006,Assurance habitation pour familles,pack_famille,2025-04-12,2990,0.31,0.1,6,43,1789.15
+EM-006,Assurance habitation pour familles,pack_famille,2025-04-10,2086,0.59,0.36,1,2,2538.32
+EM-006,Assurance habitation pour familles,pack_famille,2025-03-20,990,0.44,0.19,6,34,2400.96
+EM-006,Assurance habitation pour familles,pack_famille,2025-04-12,2599,0.55,0.25,1,21,1760.73
+EM-006,Assurance habitation pour familles,pack_famille,2025-03-23,2205,0.53,0.06,4,30,1986.79
+EM-006,Assurance habitation pour familles,pack_famille,2025-04-03,1829,0.5,0.32,9,50,3731.88
+EM-006,Assurance habitation pour familles,pack_famille,2025-04-06,2198,0.42,0.19,4,8,3122.63
+EM-006,Assurance habitation pour familles,pack_famille,2025-03-27,918,0.39,0.19,0,9,1330.97
+EM-006,Assurance habitation pour familles,pack_famille,2025-03-19,1926,0.19,0.16,8,47,3687.47
+EM-006,Assurance habitation pour familles,pack_famille,2025-04-13,1710,0.5,0.41,6,33,483.07
+EM-006,Assurance habitation pour familles,pack_famille,2025-03-21,2125,0.36,0.18,6,42,856.81
+EM-006,Assurance habitation pour familles,pack_famille,2025-04-10,1674,0.22,0.1,9,12,4482.97
+EM-006,Assurance habitation pour familles,pack_famille,2025-03-31,1991,0.38,0.19,5,21,2539.62
+EM-006,Assurance habitation pour familles,pack_famille,2025-03-25,1913,0.11,0.02,1,47,4352.89
+EM-006,Assurance habitation pour familles,pack_famille,2025-03-20,2456,0.17,0.16,2,24,3430.19
+EM-006,Assurance habitation pour familles,pack_famille,2025-04-13,1367,0.41,0.07,5,2,1285.35
+EM-006,Assurance habitation pour familles,pack_famille,2025-04-12,1312,0.52,0.06,4,11,1210.15
+EM-006,Assurance habitation pour familles,pack_famille,2025-04-13,2506,0.21,0.08,0,32,2972.53
+EM-006,Assurance habitation pour familles,pack_famille,2025-03-28,2385,0.5,0.28,2,26,1480.17
+EM-006,Assurance habitation pour familles,pack_famille,2025-03-22,2673,0.55,0.39,9,37,2042.71
+EM-006,Assurance habitation pour familles,pack_famille,2025-03-30,2405,0.11,0.06,7,28,1951.19
+EM-006,Assurance habitation pour familles,pack_famille,2025-04-03,2758,0.34,0.2,9,10,542.96
+EM-006,Assurance habitation pour familles,pack_famille,2025-04-12,1243,0.6,0.3,3,18,4841.4
+EM-006,Assurance habitation pour familles,pack_famille,2025-04-08,888,0.48,0.43,4,14,641.81
+EM-006,Assurance habitation pour familles,pack_famille,2025-03-29,804,0.38,0.1,10,30,1723.93
+EM-006,Assurance habitation pour familles,pack_famille,2025-04-12,950,0.28,0.05,0,23,2014.93
+EM-006,Assurance habitation pour familles,pack_famille,2025-03-30,2891,0.43,0.01,2,27,3731.0
+EM-006,Assurance habitation pour familles,pack_famille,2025-04-07,2763,0.11,0.03,6,43,3180.91

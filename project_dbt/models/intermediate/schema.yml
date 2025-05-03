@@ -1,0 +1,142 @@
+version: 2
+
+models:
+  - name: int_google_campaign_daily
+    description: "Vue journalière des campagnes Google Ads (sans CRM), utilisée pour l’analyse temporelle."
+    columns:
+      - name: utm_campaign
+        description: "Nom de la campagne"
+      - name: source
+        description: "Source de la campagne (google)"
+      - name: campaign_date
+        description: "Date de diffusion de la campagne"
+      - name: total_clicks
+        description: "Nombre total de clics"
+      - name: total_impressions
+        description: "Nombre total d’impressions"
+      - name: total_conversions
+        description: "Nombre total de conversions enregistrées dans Google Ads"
+      - name: total_cost
+        description: "Coût total de la campagne"
+      - name: ctr
+        description: "Click Through Rate (taux de clics)"
+      - name: cpc
+        description: "Coût par clic moyen"
+
+  - name: int_google_campaign_summary
+    description: "Vue agrégée des campagnes Google Ads avec jointure CRM, utilisée pour les KPIs finaux."
+    columns:
+      - name: utm_campaign
+        description: "Nom de la campagne"
+      - name: source
+        description: "Source de la campagne (google)"
+      - name: total_clicks
+        description: "Nombre total de clics"
+      - name: total_impressions
+        description: "Nombre total d’impressions"
+      - name: total_conversions
+        description: "Nombre total de conversions enregistrées dans Google Ads"
+      - name: total_cost
+        description: "Coût total de la campagne"
+      - name: total_leads
+        description: "Nombre total de leads enregistrés dans le CRM"
+      - name: converted_leads
+        description: "Nombre total de leads ayant converti (clients)"
+      - name: crm_revenue
+        description: "Revenu total associé aux leads convertis"
+      - name: ctr
+        description: "Click Through Rate (taux de clics)"
+      - name: cpc
+        description: "Coût par clic moyen"
+      - name: cpa
+        description: "Coût d'acquisition par client (CRM)"
+      - name: roas
+        description: "Retour sur les dépenses publicitaires"
+
+
+  - name: int_facebook_campaign_performance
+    description: "Performance des campagnes Facebook Ads enrichie avec les leads CRM"
+    columns:
+      - name: utm_campaign
+        description: "Nom de campagne Facebook"
+      - name: source
+        description: "Fixé à 'facebook'"
+      - name: total_clicks
+        description: "Total des clics"
+      - name: total_impressions
+        description: "Nombre total d’impressions"
+      - name: total_conversions
+        description: "Conversions Facebook"
+      - name: total_cost
+        description: "Dépenses totales en euros"
+      - name: total_leads
+        description: "Leads CRM générés via Facebook"
+      - name: converted_leads
+        description: "Leads CRM convertis"
+      - name: crm_revenue
+        description: "Chiffre d’affaires CRM généré"
+      - name: ctr
+        description: "Click Through Rate"
+      - name: cpc
+        description: "Coût par clic"
+      - name: cpa
+        description: "Coût par acquisition (CRM)"
+      - name: roas
+        description: "Return On Ad Spend (CRM)"
+
+  - name: int_email_campaign_performance
+    description: "Performance des campagnes emailing enrichie avec les données CRM"
+    columns:
+      - name: utm_campaign
+        description: "Nom de la campagne email (pour jointure CRM)"
+      - name: source
+        description: "Fixé à 'email'"
+      - name: total_recipients
+        description: "Nombre de destinataires"
+      - name: email_conversions
+        description: "Conversions attribuées à l’email"
+      - name: email_revenue
+        description: "Revenu généré selon la plateforme emailing"
+      - name: avg_open_rate
+        description: "Taux d’ouverture moyen (entre 0 et 1)"
+      - name: avg_click_rate
+        description: "Taux de clic moyen (entre 0 et 1)"
+      - name: total_leads
+        description: "Nombre de leads CRM générés via email"
+      - name: converted_leads
+        description: "Leads CRM convertis"
+      - name: crm_revenue
+        description: "Chiffre d’affaires CRM lié à l’email"
+      - name: roas_email_vs_crm
+        description: "Comparaison du revenu CRM vs revenu mesuré dans la campagne"
+      - name: average_revenue_per_conversion
+        description: "Revenu moyen par conversion (CRM ou email)"
+
+  - name: int_google_keywords
+    description: "Table intermédiaire agrégeant les performances par mot-clé Google Ads (CTR, CPC, CPA, taux de conversion)"
+    columns:
+      - name: keyword
+        description: "Mot-clé associé à la campagne"
+        tests:
+          - not_null
+      - name: match_type
+        description: "Type de correspondance du mot-clé"
+        tests:
+          - accepted_values:
+              values: ['EXACT', 'PHRASE', 'BROAD']
+      - name: impressions
+        description: "Nombre total d'impressions"
+      - name: clicks
+        description: "Nombre total de clics"
+      - name: conversions
+        description: "Nombre total de conversions"
+      - name: cost
+        description: "Coût total en euros"
+      - name: ctr
+        description: "Taux de clics"
+      - name: cpc
+        description: "Coût par clic moyen"
+      - name: conversion_rate
+        description: "Taux de conversion (conversions / clics)"
+      - name: cpa
+        description: "Coût par acquisition (coût / conversions)"

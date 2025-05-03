@@ -1,0 +1,181 @@
+ad_id,adset_id,campaign_id,campaign_name,adset_name,date_start,date_stop,publisher_platform,platform_position,impressions,clicks,spend,conversions,utm_campaign
+1000,3000,2000,Assurance_Santé,"Tous 30-50, Mutuelle famille",2025-04-15,2025-04-15,facebook,story,1822,25,169.85,8,assurance_santé
+1001,3001,2001,Auto_Responsable,"Homme 30-45, assurance électrique",2025-03-24,2025-03-24,facebook,marketplace,4678,122,177.31,18,auto_responsable
+1002,3002,2002,Pack_Jeunes,"Apprentis, 16-20",2025-04-16,2025-04-16,audience_network,right_hand_column,2232,68,104.15,16,pack_jeunes
+1003,3003,2003,Assurance_Santé,"Hommes 50-65, Mutuelle retraite",2025-03-23,2025-03-23,instagram,story,2561,165,251.09,18,assurance_santé
+1004,3004,2004,Assurance_Santé,"Tous 30-50, Mutuelle famille",2025-03-24,2025-03-24,audience_network,marketplace,3652,277,39.68,21,assurance_santé
+1005,3005,2005,Pack_Jeunes,"Apprentis, 16-20",2025-04-10,2025-04-10,facebook,story,3583,57,87.78,3,pack_jeunes
+1006,3006,2006,Pack_Jeunes,"Étudiants, 18-25",2025-04-01,2025-04-01,audience_network,marketplace,3947,27,196.22,9,pack_jeunes
+1007,3007,2007,Assurance_Santé,"Femmes 45-60, Complémentaire santé",2025-03-18,2025-03-18,audience_network,marketplace,1488,156,158.97,46,assurance_santé
+1008,3008,2008,Auto_Responsable,"Homme 30-45, assurance électrique",2025-04-08,2025-04-08,audience_network,right_hand_column,2320,288,86.93,15,auto_responsable
+1009,3009,2009,Leads_Immobilier,"Couples 30-40, Achat résidence",2025-03-20,2025-03-20,messenger,feed,1762,34,41.98,1,leads_immobilier
+1010,3010,2010,Leads_Immobilier,"Hommes 35-44, Investissement locatif",2025-03-23,2025-03-23,instagram,marketplace,2597,205,277.56,35,leads_immobilier
+1011,3011,2011,Protection_Habitation,Propriétaires maison,2025-03-18,2025-03-18,audience_network,feed,3890,117,130.71,10,protection_habitation
+1012,3012,2012,Protection_Habitation,Propriétaires maison,2025-03-22,2025-03-22,instagram,right_hand_column,1312,33,156.88,7,protection_habitation
+1013,3013,2013,Leads_Immobilier,"Hommes 35-44, Investissement locatif",2025-04-07,2025-04-07,facebook,feed,4590,189,234.39,50,leads_immobilier
+1014,3014,2014,Leads_Immobilier,"Hommes 35-44, Investissement locatif",2025-04-15,2025-04-15,instagram,feed,1913,86,286.45,10,leads_immobilier
+1015,3015,2015,Leads_Immobilier,"Femmes 25-34, Immobilier",2025-03-20,2025-03-20,facebook,story,4287,230,74.8,27,leads_immobilier
+1016,3016,2016,Protection_Habitation,Locataires citadins,2025-04-02,2025-04-02,instagram,marketplace,2028,242,140.0,26,protection_habitation
+1017,3017,2017,Protection_Habitation,Locataires citadins,2025-04-07,2025-04-07,audience_network,story,4592,256,284.75,51,protection_habitation
+1018,3018,2018,Leads_Immobilier,"Couples 30-40, Achat résidence",2025-04-02,2025-04-02,messenger,story,4795,91,229.95,25,leads_immobilier
+1019,3019,2019,Assurance_Santé,"Tous 30-50, Mutuelle famille",2025-03-17,2025-03-17,audience_network,marketplace,2208,88,50.07,5,assurance_santé
+1020,3020,2020,Leads_Immobilier,"Femmes 25-34, Immobilier",2025-03-23,2025-03-23,audience_network,right_hand_column,3772,10,29.78,0,leads_immobilier
+1021,3021,2021,Pack_Jeunes,"Apprentis, 16-20",2025-04-08,2025-04-08,audience_network,story,2117,80,87.46,17,pack_jeunes
+1022,3022,2022,Leads_Immobilier,"Femmes 25-34, Immobilier",2025-03-27,2025-03-27,facebook,story,713,265,295.8,9,leads_immobilier
+1023,3023,2023,Auto_Responsable,"Homme 30-45, assurance électrique",2025-03-24,2025-03-24,instagram,right_hand_column,2387,79,148.42,0,auto_responsable
+1024,3024,2024,Leads_Immobilier,"Couples 30-40, Achat résidence",2025-04-06,2025-04-06,instagram,story,4709,237,36.21,20,leads_immobilier
+1025,3025,2025,Assurance_Santé,"Tous 30-50, Mutuelle famille",2025-03-20,2025-03-20,messenger,marketplace,747,152,63.64,49,assurance_santé
+1026,3026,2026,Auto_Responsable,"Tous 30-40, voiture hybride",2025-03-20,2025-03-20,messenger,marketplace,4078,204,164.04,24,auto_responsable
+1027,3027,2027,Leads_Immobilier,"Hommes 35-44, Investissement locatif",2025-04-08,2025-04-08,audience_network,right_hand_column,4679,269,69.36,3,leads_immobilier
+1028,3028,2028,Protection_Habitation,Couples jeunes parents,2025-03-20,2025-03-20,audience_network,right_hand_column,3873,188,71.89,19,protection_habitation
+1029,3029,2029,Leads_Immobilier,"Couples 30-40, Achat résidence",2025-04-02,2025-04-02,audience_network,feed,1949,116,246.78,29,leads_immobilier
+1030,3030,2030,Pack_Jeunes,"Jeunes actifs, 25-30",2025-04-08,2025-04-08,audience_network,marketplace,4638,228,62.96,53,pack_jeunes
+1031,3031,2031,Protection_Habitation,Propriétaires maison,2025-03-31,2025-03-31,audience_network,story,2743,154,292.99,24,protection_habitation
+1032,3032,2032,Assurance_Santé,"Tous 30-50, Mutuelle famille",2025-04-02,2025-04-02,instagram,right_hand_column,1030,51,279.76,5,assurance_santé
+1033,3033,2033,Leads_Immobilier,"Hommes 35-44, Investissement locatif",2025-03-18,2025-03-18,audience_network,feed,4599,274,159.4,10,leads_immobilier
+1034,3034,2034,Auto_Responsable,"Tous 30-40, voiture hybride",2025-04-05,2025-04-05,facebook,marketplace,3063,104,129.62,20,auto_responsable
+1035,3035,2035,Auto_Responsable,"Tous 30-40, voiture hybride",2025-04-07,2025-04-07,audience_network,marketplace,4602,44,195.21,3,auto_responsable
+1036,3036,2036,Assurance_Santé,"Femmes 45-60, Complémentaire santé",2025-04-11,2025-04-11,facebook,marketplace,1296,292,250.44,86,assurance_santé
+1037,3037,2037,Auto_Responsable,"Femme 25-35, petit rouleur",2025-04-11,2025-04-11,facebook,marketplace,1059,157,123.16,49,auto_responsable
+1038,3038,2038,Pack_Jeunes,"Étudiants, 18-25",2025-04-06,2025-04-06,instagram,story,626,39,143.77,2,pack_jeunes
+1039,3039,2039,Auto_Responsable,"Femme 25-35, petit rouleur",2025-04-01,2025-04-01,messenger,right_hand_column,2587,292,205.81,43,auto_responsable
+1040,3040,2040,Pack_Jeunes,"Étudiants, 18-25",2025-04-14,2025-04-14,messenger,marketplace,1665,86,170.17,4,pack_jeunes
+1041,3041,2041,Auto_Responsable,"Tous 30-40, voiture hybride",2025-03-17,2025-03-17,instagram,right_hand_column,2292,135,112.92,38,auto_responsable
+1042,3042,2042,Pack_Jeunes,"Étudiants, 18-25",2025-04-02,2025-04-02,messenger,feed,2285,29,34.95,1,pack_jeunes
+1043,3043,2043,Pack_Jeunes,"Jeunes actifs, 25-30",2025-03-27,2025-03-27,audience_network,marketplace,1585,208,19.65,24,pack_jeunes
+1044,3044,2044,Auto_Responsable,"Homme 30-45, assurance électrique",2025-04-16,2025-04-16,facebook,right_hand_column,1699,179,253.91,41,auto_responsable
+1045,3045,2045,Protection_Habitation,Couples jeunes parents,2025-04-13,2025-04-13,facebook,story,2968,34,180.63,2,protection_habitation
+1046,3046,2046,Protection_Habitation,Couples jeunes parents,2025-04-15,2025-04-15,instagram,feed,4011,274,175.35,0,protection_habitation
+1047,3047,2047,Assurance_Santé,"Femmes 45-60, Complémentaire santé",2025-04-10,2025-04-10,facebook,story,2651,284,115.53,13,assurance_santé
+1048,3048,2048,Assurance_Santé,"Tous 30-50, Mutuelle famille",2025-03-17,2025-03-17,audience_network,story,3286,269,245.85,84,assurance_santé
+1049,3049,2049,Protection_Habitation,Couples jeunes parents,2025-04-10,2025-04-10,messenger,right_hand_column,3494,46,299.62,4,protection_habitation
+1050,3050,2050,Protection_Habitation,Propriétaires maison,2025-04-15,2025-04-15,messenger,marketplace,4337,139,43.84,36,protection_habitation
+1051,3051,2051,Leads_Immobilier,"Femmes 25-34, Immobilier",2025-03-17,2025-03-17,facebook,feed,3254,240,296.34,41,leads_immobilier
+1052,3052,2052,Auto_Responsable,"Tous 30-40, voiture hybride",2025-03-21,2025-03-21,audience_network,marketplace,3902,268,264.17,70,auto_responsable
+1053,3053,2053,Leads_Immobilier,"Couples 30-40, Achat résidence",2025-03-24,2025-03-24,audience_network,feed,3240,185,133.16,24,leads_immobilier
+1054,3054,2054,Pack_Jeunes,"Apprentis, 16-20",2025-03-23,2025-03-23,facebook,story,4423,51,46.72,3,pack_jeunes
+1055,3055,2055,Assurance_Santé,"Hommes 50-65, Mutuelle retraite",2025-03-17,2025-03-17,audience_network,right_hand_column,3031,90,272.66,13,assurance_santé
+1056,3056,2056,Protection_Habitation,Couples jeunes parents,2025-03-18,2025-03-18,instagram,right_hand_column,1478,45,100.11,1,protection_habitation
+1057,3057,2057,Assurance_Santé,"Hommes 50-65, Mutuelle retraite",2025-03-19,2025-03-19,instagram,right_hand_column,1773,177,206.48,29,assurance_santé
+1058,3058,2058,Leads_Immobilier,"Hommes 35-44, Investissement locatif",2025-04-10,2025-04-10,instagram,right_hand_column,2653,40,180.07,6,leads_immobilier
+1059,3059,2059,Leads_Immobilier,"Femmes 25-34, Immobilier",2025-04-09,2025-04-09,messenger,feed,3008,94,242.81,25,leads_immobilier
+1060,3060,2060,Assurance_Santé,"Tous 30-50, Mutuelle famille",2025-03-17,2025-03-17,facebook,right_hand_column,4976,249,211.86,53,assurance_santé
+1061,3061,2061,Leads_Immobilier,"Couples 30-40, Achat résidence",2025-03-23,2025-03-23,facebook,marketplace,3049,171,295.39,49,leads_immobilier
+1062,3062,2062,Pack_Jeunes,"Étudiants, 18-25",2025-03-31,2025-03-31,instagram,story,4308,123,247.82,18,pack_jeunes
+1063,3063,2063,Auto_Responsable,"Tous 30-40, voiture hybride",2025-03-28,2025-03-28,instagram,right_hand_column,2802,197,278.69,42,auto_responsable
+1064,3064,2064,Leads_Immobilier,"Femmes 25-34, Immobilier",2025-03-19,2025-03-19,facebook,marketplace,2751,40,190.32,12,leads_immobilier
+1065,3065,2065,Pack_Jeunes,"Jeunes actifs, 25-30",2025-03-22,2025-03-22,audience_network,feed,1084,21,190.67,3,pack_jeunes
+1066,3066,2066,Assurance_Santé,"Tous 30-50, Mutuelle famille",2025-04-16,2025-04-16,audience_network,right_hand_column,4737,129,12.38,41,assurance_santé
+1067,3067,2067,Assurance_Santé,"Tous 30-50, Mutuelle famille",2025-04-06,2025-04-06,facebook,marketplace,4148,141,262.89,12,assurance_santé
+1068,3068,2068,Assurance_Santé,"Hommes 50-65, Mutuelle retraite",2025-04-15,2025-04-15,audience_network,right_hand_column,827,245,47.39,58,assurance_santé
+1069,3069,2069,Assurance_Santé,"Tous 30-50, Mutuelle famille",2025-03-31,2025-03-31,messenger,story,4280,262,115.6,36,assurance_santé
+1070,3070,2070,Auto_Responsable,"Tous 30-40, voiture hybride",2025-04-01,2025-04-01,instagram,feed,1593,175,215.18,30,auto_responsable
+1071,3071,2071,Assurance_Santé,"Hommes 50-65, Mutuelle retraite",2025-03-26,2025-03-26,messenger,story,1168,162,143.48,10,assurance_santé
+1072,3072,2072,Pack_Jeunes,"Apprentis, 16-20",2025-03-17,2025-03-17,messenger,feed,2170,154,263.36,40,pack_jeunes
+1073,3073,2073,Pack_Jeunes,"Étudiants, 18-25",2025-04-05,2025-04-05,messenger,right_hand_column,824,180,194.39,8,pack_jeunes
+1074,3074,2074,Protection_Habitation,Propriétaires maison,2025-04-01,2025-04-01,messenger,right_hand_column,2204,161,21.64,34,protection_habitation
+1075,3075,2075,Protection_Habitation,Propriétaires maison,2025-03-17,2025-03-17,facebook,right_hand_column,4689,123,17.4,6,protection_habitation
+1076,3076,2076,Pack_Jeunes,"Apprentis, 16-20",2025-04-13,2025-04-13,messenger,right_hand_column,3124,186,239.55,38,pack_jeunes
+1077,3077,2077,Protection_Habitation,Propriétaires maison,2025-03-22,2025-03-22,messenger,marketplace,1198,145,189.68,18,protection_habitation
+1078,3078,2078,Pack_Jeunes,"Jeunes actifs, 25-30",2025-03-27,2025-03-27,messenger,marketplace,3773,153,113.53,34,pack_jeunes
+1079,3079,2079,Protection_Habitation,Locataires citadins,2025-04-01,2025-04-01,messenger,feed,3399,181,31.24,40,protection_habitation
+1080,3080,2080,Leads_Immobilier,"Couples 30-40, Achat résidence",2025-03-21,2025-03-21,instagram,right_hand_column,2717,18,170.71,0,leads_immobilier
+1081,3081,2081,Assurance_Santé,"Hommes 50-65, Mutuelle retraite",2025-04-14,2025-04-14,audience_network,right_hand_column,1262,126,110.9,14,assurance_santé
+1082,3082,2082,Leads_Immobilier,"Hommes 35-44, Investissement locatif",2025-03-29,2025-03-29,messenger,feed,829,227,220.28,56,leads_immobilier
+1083,3083,2083,Pack_Jeunes,"Apprentis, 16-20",2025-03-28,2025-03-28,instagram,right_hand_column,2928,161,202.24,32,pack_jeunes
+1084,3084,2084,Assurance_Santé,"Tous 30-50, Mutuelle famille",2025-03-19,2025-03-19,messenger,right_hand_column,1624,222,291.2,45,assurance_santé
+1085,3085,2085,Assurance_Santé,"Hommes 50-65, Mutuelle retraite",2025-03-30,2025-03-30,messenger,marketplace,4015,137,85.05,43,assurance_santé
+1086,3086,2086,Auto_Responsable,"Femme 25-35, petit rouleur",2025-03-17,2025-03-17,facebook,right_hand_column,1306,48,296.06,8,auto_responsable
+1087,3087,2087,Auto_Responsable,"Femme 25-35, petit rouleur",2025-03-22,2025-03-22,facebook,feed,4821,174,231.35,37,auto_responsable
+1088,3088,2088,Auto_Responsable,"Tous 30-40, voiture hybride",2025-04-04,2025-04-04,facebook,marketplace,4385,203,229.33,66,auto_responsable
+1089,3089,2089,Leads_Immobilier,"Couples 30-40, Achat résidence",2025-04-16,2025-04-16,audience_network,marketplace,2481,122,215.52,10,leads_immobilier
+1090,3090,2090,Leads_Immobilier,"Femmes 25-34, Immobilier",2025-04-04,2025-04-04,instagram,right_hand_column,1745,233,230.61,9,leads_immobilier
+1091,3091,2091,Protection_Habitation,Couples jeunes parents,2025-04-08,2025-04-08,messenger,story,4423,89,239.68,29,protection_habitation
+1092,3092,2092,Auto_Responsable,"Homme 30-45, assurance électrique",2025-04-01,2025-04-01,facebook,right_hand_column,3736,48,227.69,7,auto_responsable
+1093,3093,2093,Protection_Habitation,Couples jeunes parents,2025-04-14,2025-04-14,messenger,feed,2134,227,165.29,18,protection_habitation
+1094,3094,2094,Auto_Responsable,"Tous 30-40, voiture hybride",2025-04-02,2025-04-02,instagram,right_hand_column,3766,92,138.63,19,auto_responsable
+1095,3095,2095,Assurance_Santé,"Hommes 50-65, Mutuelle retraite",2025-03-29,2025-03-29,facebook,marketplace,1750,145,237.2,18,assurance_santé
+1096,3096,2096,Assurance_Santé,"Femmes 45-60, Complémentaire santé",2025-03-30,2025-03-30,messenger,story,1774,83,95.03,26,assurance_santé
+1097,3097,2097,Auto_Responsable,"Tous 30-40, voiture hybride",2025-04-09,2025-04-09,messenger,marketplace,747,88,176.74,15,auto_responsable
+1098,3098,2098,Assurance_Santé,"Hommes 50-65, Mutuelle retraite",2025-03-30,2025-03-30,facebook,marketplace,2752,137,192.46,12,assurance_santé
+1099,3099,2099,Assurance_Santé,"Hommes 50-65, Mutuelle retraite",2025-04-10,2025-04-10,messenger,marketplace,4200,196,169.01,45,assurance_santé
+1100,3100,2100,Leads_Immobilier,"Femmes 25-34, Immobilier",2025-04-13,2025-04-13,audience_network,story,3002,271,81.3,31,leads_immobilier
+1101,3101,2101,Auto_Responsable,"Homme 30-45, assurance électrique",2025-03-24,2025-03-24,messenger,feed,2305,44,266.5,5,auto_responsable
+1102,3102,2102,Protection_Habitation,Propriétaires maison,2025-03-26,2025-03-26,messenger,right_hand_column,3566,198,166.97,51,protection_habitation
+1103,3103,2103,Pack_Jeunes,"Jeunes actifs, 25-30",2025-04-05,2025-04-05,audience_network,story,3419,19,264.93,4,pack_jeunes
+1104,3104,2104,Pack_Jeunes,"Étudiants, 18-25",2025-03-27,2025-03-27,instagram,story,2536,294,219.65,9,pack_jeunes
+1105,3105,2105,Assurance_Santé,"Hommes 50-65, Mutuelle retraite",2025-03-29,2025-03-29,messenger,feed,3411,48,114.99,6,assurance_santé
+1106,3106,2106,Auto_Responsable,"Homme 30-45, assurance électrique",2025-03-28,2025-03-28,messenger,right_hand_column,1616,248,148.32,57,auto_responsable
+1107,3107,2107,Assurance_Santé,"Femmes 45-60, Complémentaire santé",2025-04-16,2025-04-16,instagram,story,1364,161,120.41,5,assurance_santé
+1108,3108,2108,Pack_Jeunes,"Jeunes actifs, 25-30",2025-03-21,2025-03-21,audience_network,right_hand_column,1391,263,53.35,57,pack_jeunes
+1109,3109,2109,Assurance_Santé,"Hommes 50-65, Mutuelle retraite",2025-03-20,2025-03-20,messenger,story,4838,236,223.49,48,assurance_santé
+1110,3110,2110,Assurance_Santé,"Tous 30-50, Mutuelle famille",2025-04-15,2025-04-15,audience_network,marketplace,1869,67,282.9,16,assurance_santé
+1111,3111,2111,Protection_Habitation,Locataires citadins,2025-04-14,2025-04-14,audience_network,right_hand_column,3597,73,220.61,10,protection_habitation
+1112,3112,2112,Auto_Responsable,"Femme 25-35, petit rouleur",2025-03-22,2025-03-22,facebook,marketplace,2713,206,115.99,17,auto_responsable
+1113,3113,2113,Auto_Responsable,"Tous 30-40, voiture hybride",2025-03-29,2025-03-29,instagram,right_hand_column,1123,177,273.55,50,auto_responsable
+1114,3114,2114,Leads_Immobilier,"Hommes 35-44, Investissement locatif",2025-03-18,2025-03-18,instagram,marketplace,2493,227,194.92,26,leads_immobilier
+1115,3115,2115,Assurance_Santé,"Hommes 50-65, Mutuelle retraite",2025-03-31,2025-03-31,messenger,marketplace,2077,258,157.93,62,assurance_santé
+1116,3116,2116,Auto_Responsable,"Femme 25-35, petit rouleur",2025-04-08,2025-04-08,instagram,feed,832,68,299.23,22,auto_responsable
+1117,3117,2117,Leads_Immobilier,"Femmes 25-34, Immobilier",2025-04-04,2025-04-04,facebook,marketplace,2162,189,124.44,11,leads_immobilier
+1118,3118,2118,Protection_Habitation,Couples jeunes parents,2025-03-23,2025-03-23,audience_network,story,1599,261,96.57,58,protection_habitation
+1119,3119,2119,Auto_Responsable,"Femme 25-35, petit rouleur",2025-04-15,2025-04-15,messenger,marketplace,850,209,126.9,31,auto_responsable
+1120,3120,2120,Protection_Habitation,Propriétaires maison,2025-03-30,2025-03-30,audience_network,right_hand_column,3329,133,65.89,44,protection_habitation
+1121,3121,2121,Auto_Responsable,"Tous 30-40, voiture hybride",2025-04-10,2025-04-10,audience_network,story,4146,32,155.12,2,auto_responsable
+1122,3122,2122,Pack_Jeunes,"Jeunes actifs, 25-30",2025-04-11,2025-04-11,messenger,story,3838,135,287.81,10,pack_jeunes
+1123,3123,2123,Auto_Responsable,"Homme 30-45, assurance électrique",2025-03-21,2025-03-21,messenger,marketplace,3338,239,103.67,6,auto_responsable
+1124,3124,2124,Auto_Responsable,"Homme 30-45, assurance électrique",2025-04-12,2025-04-12,audience_network,marketplace,582,46,123.41,11,auto_responsable
+1125,3125,2125,Protection_Habitation,Propriétaires maison,2025-04-12,2025-04-12,instagram,feed,1516,98,151.04,24,protection_habitation
+1126,3126,2126,Pack_Jeunes,"Étudiants, 18-25",2025-04-07,2025-04-07,messenger,feed,3462,94,180.89,12,pack_jeunes
+1127,3127,2127,Auto_Responsable,"Femme 25-35, petit rouleur",2025-03-22,2025-03-22,instagram,right_hand_column,2341,266,237.11,86,auto_responsable
+1128,3128,2128,Auto_Responsable,"Femme 25-35, petit rouleur",2025-04-14,2025-04-14,facebook,story,4408,93,235.06,15,auto_responsable
+1129,3129,2129,Protection_Habitation,Couples jeunes parents,2025-04-15,2025-04-15,audience_network,feed,2371,99,190.47,25,protection_habitation
+1130,3130,2130,Protection_Habitation,Couples jeunes parents,2025-04-09,2025-04-09,audience_network,marketplace,1243,165,198.55,35,protection_habitation
+1131,3131,2131,Protection_Habitation,Locataires citadins,2025-03-18,2025-03-18,instagram,right_hand_column,1166,269,294.75,43,protection_habitation
+1132,3132,2132,Auto_Responsable,"Homme 30-45, assurance électrique",2025-03-22,2025-03-22,instagram,feed,729,103,107.3,30,auto_responsable
+1133,3133,2133,Auto_Responsable,"Tous 30-40, voiture hybride",2025-04-07,2025-04-07,instagram,right_hand_column,510,273,18.14,37,auto_responsable
+1134,3134,2134,Auto_Responsable,"Femme 25-35, petit rouleur",2025-04-03,2025-04-03,instagram,story,2923,49,136.3,10,auto_responsable
+1135,3135,2135,Auto_Responsable,"Tous 30-40, voiture hybride",2025-04-07,2025-04-07,messenger,story,1932,159,121.91,10,auto_responsable
+1136,3136,2136,Assurance_Santé,"Femmes 45-60, Complémentaire santé",2025-03-25,2025-03-25,instagram,marketplace,4131,67,71.92,7,assurance_santé
+1137,3137,2137,Leads_Immobilier,"Femmes 25-34, Immobilier",2025-04-08,2025-04-08,messenger,story,3289,39,197.66,12,leads_immobilier
+1138,3138,2138,Leads_Immobilier,"Hommes 35-44, Investissement locatif",2025-04-05,2025-04-05,facebook,marketplace,2082,35,291.81,0,leads_immobilier
+1139,3139,2139,Pack_Jeunes,"Jeunes actifs, 25-30",2025-04-04,2025-04-04,instagram,right_hand_column,2772,275,167.7,83,pack_jeunes
+1140,3140,2140,Assurance_Santé,"Hommes 50-65, Mutuelle retraite",2025-03-19,2025-03-19,facebook,right_hand_column,2240,58,107.83,7,assurance_santé
+1141,3141,2141,Auto_Responsable,"Femme 25-35, petit rouleur",2025-03-17,2025-03-17,facebook,marketplace,1235,133,174.66,13,auto_responsable
+1142,3142,2142,Protection_Habitation,Couples jeunes parents,2025-03-19,2025-03-19,facebook,story,2119,274,216.68,48,protection_habitation
+1143,3143,2143,Auto_Responsable,"Homme 30-45, assurance électrique",2025-03-24,2025-03-24,audience_network,story,3556,25,92.36,2,auto_responsable
+1144,3144,2144,Pack_Jeunes,"Jeunes actifs, 25-30",2025-03-30,2025-03-30,messenger,feed,3155,171,116.75,46,pack_jeunes
+1145,3145,2145,Pack_Jeunes,"Apprentis, 16-20",2025-04-05,2025-04-05,audience_network,marketplace,1684,17,207.23,1,pack_jeunes
+1146,3146,2146,Assurance_Santé,"Tous 30-50, Mutuelle famille",2025-03-25,2025-03-25,messenger,right_hand_column,1640,116,64.98,24,assurance_santé
+1147,3147,2147,Protection_Habitation,Propriétaires maison,2025-04-11,2025-04-11,facebook,story,1712,36,157.51,10,protection_habitation
+1148,3148,2148,Protection_Habitation,Propriétaires maison,2025-03-25,2025-03-25,messenger,marketplace,4916,246,96.21,18,protection_habitation
+1149,3149,2149,Pack_Jeunes,"Jeunes actifs, 25-30",2025-03-25,2025-03-25,audience_network,story,1521,174,43.7,13,pack_jeunes
+1150,3150,2150,Pack_Jeunes,"Apprentis, 16-20",2025-03-17,2025-03-17,audience_network,right_hand_column,3637,205,226.27,59,pack_jeunes
+1151,3151,2151,Pack_Jeunes,"Étudiants, 18-25",2025-04-11,2025-04-11,facebook,feed,3047,257,264.02,57,pack_jeunes
+1152,3152,2152,Assurance_Santé,"Tous 30-50, Mutuelle famille",2025-04-12,2025-04-12,messenger,marketplace,2502,278,225.37,72,assurance_santé
+1153,3153,2153,Auto_Responsable,"Femme 25-35, petit rouleur",2025-03-18,2025-03-18,messenger,marketplace,2708,184,78.02,8,auto_responsable
+1154,3154,2154,Pack_Jeunes,"Étudiants, 18-25",2025-04-04,2025-04-04,messenger,feed,1055,244,151.12,54,pack_jeunes
+1155,3155,2155,Leads_Immobilier,"Couples 30-40, Achat résidence",2025-03-24,2025-03-24,instagram,feed,2422,276,61.54,26,leads_immobilier
+1156,3156,2156,Pack_Jeunes,"Jeunes actifs, 25-30",2025-03-17,2025-03-17,messenger,marketplace,1280,27,123.64,9,pack_jeunes
+1157,3157,2157,Auto_Responsable,"Homme 30-45, assurance électrique",2025-04-16,2025-04-16,instagram,story,4934,269,39.26,19,auto_responsable
+1158,3158,2158,Leads_Immobilier,"Couples 30-40, Achat résidence",2025-03-21,2025-03-21,audience_network,marketplace,2195,101,291.61,33,leads_immobilier
+1159,3159,2159,Pack_Jeunes,"Étudiants, 18-25",2025-04-13,2025-04-13,messenger,story,3437,25,142.43,0,pack_jeunes
+1160,3160,2160,Pack_Jeunes,"Jeunes actifs, 25-30",2025-03-28,2025-03-28,facebook,right_hand_column,1651,40,270.23,7,pack_jeunes
+1161,3161,2161,Pack_Jeunes,"Apprentis, 16-20",2025-03-30,2025-03-30,messenger,right_hand_column,2029,110,160.53,4,pack_jeunes
+1162,3162,2162,Protection_Habitation,Locataires citadins,2025-03-23,2025-03-23,instagram,marketplace,1136,177,189.34,37,protection_habitation
+1163,3163,2163,Auto_Responsable,"Tous 30-40, voiture hybride",2025-04-06,2025-04-06,facebook,marketplace,2539,81,87.54,9,auto_responsable
+1164,3164,2164,Pack_Jeunes,"Apprentis, 16-20",2025-04-04,2025-04-04,instagram,marketplace,1108,125,93.71,4,pack_jeunes
+1165,3165,2165,Leads_Immobilier,"Hommes 35-44, Investissement locatif",2025-04-12,2025-04-12,audience_network,story,4659,168,32.73,21,leads_immobilier
+1166,3166,2166,Auto_Responsable,"Tous 30-40, voiture hybride",2025-03-17,2025-03-17,messenger,marketplace,4029,24,245.18,8,auto_responsable
+1167,3167,2167,Protection_Habitation,Locataires citadins,2025-03-31,2025-03-31,instagram,marketplace,3591,118,12.94,15,protection_habitation
+1168,3168,2168,Assurance_Santé,"Hommes 50-65, Mutuelle retraite",2025-03-20,2025-03-20,messenger,feed,664,231,155.51,62,assurance_santé
+1169,3169,2169,Auto_Responsable,"Homme 30-45, assurance électrique",2025-03-17,2025-03-17,facebook,right_hand_column,658,100,200.44,6,auto_responsable
+1170,3170,2170,Leads_Immobilier,"Femmes 25-34, Immobilier",2025-04-12,2025-04-12,messenger,feed,2773,148,199.78,21,leads_immobilier
+1171,3171,2171,Assurance_Santé,"Hommes 50-65, Mutuelle retraite",2025-04-03,2025-04-03,instagram,story,3447,10,266.79,2,assurance_santé
+1172,3172,2172,Leads_Immobilier,"Couples 30-40, Achat résidence",2025-04-07,2025-04-07,audience_network,feed,2400,89,84.55,11,leads_immobilier
+1173,3173,2173,Auto_Responsable,"Femme 25-35, petit rouleur",2025-03-23,2025-03-23,messenger,story,1491,262,202.13,14,auto_responsable
+1174,3174,2174,Assurance_Santé,"Tous 30-50, Mutuelle famille",2025-04-14,2025-04-14,facebook,story,1917,104,57.84,24,assurance_santé
+1175,3175,2175,Auto_Responsable,"Homme 30-45, assurance électrique",2025-04-02,2025-04-02,facebook,right_hand_column,4086,146,277.64,26,auto_responsable
+1176,3176,2176,Pack_Jeunes,"Jeunes actifs, 25-30",2025-03-19,2025-03-19,instagram,right_hand_column,2331,158,278.99,49,pack_jeunes
+1177,3177,2177,Assurance_Santé,"Tous 30-50, Mutuelle famille",2025-03-28,2025-03-28,instagram,marketplace,1307,81,222.55,2,assurance_santé
+1178,3178,2178,Leads_Immobilier,"Hommes 35-44, Investissement locatif",2025-03-18,2025-03-18,messenger,marketplace,1353,11,131.3,1,leads_immobilier
+1179,3179,2179,Pack_Jeunes,"Étudiants, 18-25",2025-04-15,2025-04-15,facebook,feed,4563,90,294.67,23,pack_jeunes

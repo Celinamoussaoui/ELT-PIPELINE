@@ -1,0 +1,44 @@
+version: 2
+
+models:
+  - name: mart_campaign_performance
+    description: "Vue unifiée des campagnes marketing multi-canal (Google, Facebook, Emailing)"
+    columns:
+      - name: utm_campaign
+        description: "Nom de la campagne"
+      - name: source
+        description: "Source d’acquisition (google, facebook, email)"
+      - name: start_date
+        description: "Date de début de la campagne"
+      - name: end_date
+        description: "Date de fin de la campagne"
+      - name: total_clicks
+        description: "Nombre total de clics (Ads uniquement)"
+      - name: total_impressions
+        description: "Nombre total d’impressions (Ads uniquement)"
+      - name: total_conversions
+        description: "Conversions Ads ou Emailing"
+      - name: total_cost
+        description: "Budget dépensé (Ads uniquement)"
+      - name: total_leads
+        description: "Nombre total de leads CRM générés"
+      - name: converted_leads
+        description: "Leads CRM convertis"
+      - name: crm_revenue
+        description: "Revenu CRM généré"
+      - name: ctr
+        description: "Click Through Rate (Ads uniquement)"
+      - name: cpc
+        description: "Coût par clic (Ads uniquement)"
+      - name: cpa
+        description: "Coût par acquisition CRM (Ads uniquement)"
+      - name: roas
+        description: "ROAS global : revenu CRM / coût"
+      - name: recipients
+        description: "Destinataires de la campagne email (Email uniquement)"
+      - name: avg_open_rate
+        description: "Taux d’ouverture moyen (Email uniquement)"
+      - name: avg_click_rate
+        description: "Taux de clic moyen (Email uniquement)"
+      - name: email_revenue
+        description: "Revenu tracké par la plateforme emailing"

@@ -1,0 +1,16 @@
+FROM python:3.10-slim
+
+# Install DBT BigQuery + outils de base
+RUN apt-get update && apt-get install -y bash curl git && \
+    pip install --no-cache-dir dbt-core dbt-bigquery && \
+    apt-get clean
+
+WORKDIR /usr/app
+
+# On garde le DBT_PROFILES_DIR si tu montes /root/.dbt
+ENV DBT_PROFILES_DIR=/root/.dbt
+
+# Démarrage "idle" pour exécuter manuellement
+CMD ["tail", "-f", "/dev/null"]
+
+

@@ -1,0 +1,181 @@
+campaign_id,campaign_name,ad_group_name,segments_keyword_info_text,segments_keyword_info_match_type,segments_device,segments_date,metrics_clicks,metrics_impressions,metrics_cost_micros,metrics_conversions,utm_campaign,cost_euros
+100000,Promo_Printemps,Promo_Printemps_groupe_2,promo assurance logement,BROAD,DESKTOP,2025-03-17,22,264,11382268.5,3,promo_printemps,11.3822685
+100001,Leads_Auto,Leads_Auto_groupe_3,assurance auto jeune conducteur,PHRASE,TABLET,2025-04-07,135,1215,216683685.0,43,leads_auto,216.683685
+100002,Offre_Hiver,Offre_Hiver_groupe_1,protection maison hiver,EXACT,TABLET,2025-03-21,69,897,82358460.0,3,offre_hiver,82.35846
+100003,Rentrée_Assurance,Rentrée_Assurance_groupe_2,rentrée mutuelle santé,BROAD,MOBILE,2025-04-08,21,315,83242647.0,1,rentrée_assurance,83.242647
+100004,Pack_Famille,Pack_Famille_groupe_3,assurance famille nombreuse,BROAD,DESKTOP,2025-03-26,17,238,6843838.5,5,pack_famille,6.8438385
+100005,Rentrée_Assurance,Rentrée_Assurance_groupe_1,rentrée mutuelle santé,PHRASE,MOBILE,2025-04-15,124,620,77058256.5,42,rentrée_assurance,77.0582565
+100006,Leads_Auto,Leads_Auto_groupe_3,devis assurance voiture,EXACT,MOBILE,2025-03-25,23,253,158381608.5,4,leads_auto,158.3816085
+100007,Offre_Hiver,Offre_Hiver_groupe_3,assurance tempête,EXACT,MOBILE,2025-04-10,176,2992,104311669.5,77,offre_hiver,104.3116695
+100008,Promo_Printemps,Promo_Printemps_groupe_3,devis assurance printemps,BROAD,TABLET,2025-04-07,117,1053,51189259.5,20,promo_printemps,51.1892595
+100009,Pack_Famille,Pack_Famille_groupe_1,assurance vie famille,PHRASE,TABLET,2025-04-11,285,4845,184641943.5,125,pack_famille,184.6419435
+100010,Offre_Hiver,Offre_Hiver_groupe_3,assurance hivernale,EXACT,DESKTOP,2025-03-20,287,4879,205409952.0,140,offre_hiver,205.409952
+100011,Rentrée_Assurance,Rentrée_Assurance_groupe_2,assurance étudiant,PHRASE,DESKTOP,2025-03-30,88,1760,195459565.5,5,rentrée_assurance,195.4595655
+100012,Leads_Auto,Leads_Auto_groupe_1,assurance auto jeune conducteur,BROAD,TABLET,2025-03-18,197,985,45307606.5,92,leads_auto,45.3076065
+100013,Promo_Printemps,Promo_Printemps_groupe_2,promo assurance logement,BROAD,TABLET,2025-04-06,92,1656,151564999.5,13,promo_printemps,151.5649995
+100014,Leads_Auto,Leads_Auto_groupe_1,assurance auto jeune conducteur,PHRASE,TABLET,2025-04-12,140,1820,219621766.5,15,leads_auto,219.6217665
+100015,Promo_Printemps,Promo_Printemps_groupe_1,devis assurance printemps,PHRASE,MOBILE,2025-04-01,260,2340,106432393.5,45,promo_printemps,106.4323935
+100016,Pack_Famille,Pack_Famille_groupe_2,assurance vie famille,PHRASE,MOBILE,2025-03-25,106,742,132857311.5,51,pack_famille,132.8573115
+100017,Pack_Famille,Pack_Famille_groupe_1,assurance vie famille,BROAD,TABLET,2025-04-09,184,920,75484759.5,44,pack_famille,75.4847595
+100018,Promo_Printemps,Promo_Printemps_groupe_3,assurance habitation pas chère,PHRASE,DESKTOP,2025-03-30,190,2280,204947010.0,27,promo_printemps,204.94701
+100019,Pack_Famille,Pack_Famille_groupe_2,assurance famille nombreuse,PHRASE,DESKTOP,2025-03-22,233,1165,181300329.0,68,pack_famille,181.300329
+100020,Pack_Famille,Pack_Famille_groupe_3,assurance vie famille,EXACT,TABLET,2025-04-05,199,995,76756360.5,20,pack_famille,76.7563605
+100021,Promo_Printemps,Promo_Printemps_groupe_3,assurance habitation pas chère,PHRASE,TABLET,2025-04-05,120,840,173345377.5,11,promo_printemps,173.3453775
+100022,Promo_Printemps,Promo_Printemps_groupe_3,devis assurance printemps,PHRASE,TABLET,2025-04-15,36,684,152783820.0,1,promo_printemps,152.78382
+100023,Promo_Printemps,Promo_Printemps_groupe_3,devis assurance printemps,EXACT,MOBILE,2025-04-01,88,1056,125650489.5,10,promo_printemps,125.6504895
+100024,Offre_Hiver,Offre_Hiver_groupe_3,assurance tempête,PHRASE,DESKTOP,2025-03-28,241,2651,116274019.5,41,offre_hiver,116.2740195
+100025,Leads_Auto,Leads_Auto_groupe_1,devis assurance voiture,BROAD,MOBILE,2025-04-13,119,1547,76104801.0,22,leads_auto,76.104801
+100026,Pack_Famille,Pack_Famille_groupe_2,assurance famille nombreuse,PHRASE,MOBILE,2025-03-29,18,126,101167092.0,4,pack_famille,101.167092
+100027,Offre_Hiver,Offre_Hiver_groupe_3,assurance hivernale,PHRASE,DESKTOP,2025-04-14,156,3120,149043334.5,29,offre_hiver,149.0433345
+100028,Leads_Auto,Leads_Auto_groupe_3,devis assurance voiture,PHRASE,MOBILE,2025-04-05,130,650,93495555.0,39,leads_auto,93.495555
+100029,Offre_Hiver,Offre_Hiver_groupe_3,protection maison hiver,PHRASE,TABLET,2025-04-14,152,1976,174964297.5,8,offre_hiver,174.9642975
+100030,Rentrée_Assurance,Rentrée_Assurance_groupe_2,assurance étudiant,PHRASE,MOBILE,2025-04-07,154,2618,101559717.0,3,rentrée_assurance,101.559717
+100031,Offre_Hiver,Offre_Hiver_groupe_3,protection maison hiver,PHRASE,MOBILE,2025-04-02,290,3190,120563073.0,135,offre_hiver,120.563073
+100032,Rentrée_Assurance,Rentrée_Assurance_groupe_3,assurance étudiant,PHRASE,TABLET,2025-04-14,209,1254,157205043.0,103,rentrée_assurance,157.205043
+100033,Pack_Famille,Pack_Famille_groupe_1,assurance famille nombreuse,PHRASE,MOBILE,2025-04-08,16,144,153360864.0,2,pack_famille,153.360864
+100034,Promo_Printemps,Promo_Printemps_groupe_1,devis assurance printemps,PHRASE,TABLET,2025-04-13,143,715,130556524.5,0,promo_printemps,130.5565245
+100035,Leads_Auto,Leads_Auto_groupe_1,devis assurance voiture,BROAD,TABLET,2025-03-25,248,1984,220590211.5,114,leads_auto,220.5902115
+100036,Pack_Famille,Pack_Famille_groupe_3,protection famille complète,PHRASE,DESKTOP,2025-04-10,181,1991,80664124.5,58,pack_famille,80.6641245
+100037,Pack_Famille,Pack_Famille_groupe_2,assurance famille nombreuse,EXACT,MOBILE,2025-03-18,92,1196,39446451.0,11,pack_famille,39.446451
+100038,Promo_Printemps,Promo_Printemps_groupe_1,devis assurance printemps,EXACT,TABLET,2025-03-21,11,154,64250154.0,2,promo_printemps,64.250154
+100039,Pack_Famille,Pack_Famille_groupe_3,assurance famille nombreuse,BROAD,DESKTOP,2025-03-22,111,2109,170140972.5,16,pack_famille,170.1409725
+100040,Promo_Printemps,Promo_Printemps_groupe_2,assurance habitation pas chère,EXACT,DESKTOP,2025-04-13,56,336,208839406.5,22,promo_printemps,208.8394065
+100041,Rentrée_Assurance,Rentrée_Assurance_groupe_1,rentrée mutuelle santé,BROAD,DESKTOP,2025-03-20,149,2682,163439383.5,10,rentrée_assurance,163.4393835
+100042,Offre_Hiver,Offre_Hiver_groupe_2,protection maison hiver,PHRASE,MOBILE,2025-03-22,260,2080,196417404.0,2,offre_hiver,196.417404
+100043,Pack_Famille,Pack_Famille_groupe_1,protection famille complète,PHRASE,TABLET,2025-04-02,61,366,23155807.5,22,pack_famille,23.1558075
+100044,Offre_Hiver,Offre_Hiver_groupe_3,assurance tempête,EXACT,DESKTOP,2025-04-03,194,970,221315017.5,97,offre_hiver,221.3150175
+100045,Rentrée_Assurance,Rentrée_Assurance_groupe_1,assurance scolaire,EXACT,MOBILE,2025-03-27,237,1896,61411936.5,0,rentrée_assurance,61.4119365
+100046,Promo_Printemps,Promo_Printemps_groupe_2,devis assurance printemps,BROAD,DESKTOP,2025-04-03,82,656,51433299.0,36,promo_printemps,51.433299
+100047,Rentrée_Assurance,Rentrée_Assurance_groupe_2,assurance étudiant,PHRASE,MOBILE,2025-04-12,220,3960,182268526.5,5,rentrée_assurance,182.2685265
+100048,Offre_Hiver,Offre_Hiver_groupe_2,assurance tempête,EXACT,DESKTOP,2025-03-31,187,3179,91246968.0,41,offre_hiver,91.246968
+100049,Pack_Famille,Pack_Famille_groupe_2,assurance famille nombreuse,EXACT,DESKTOP,2025-04-12,63,1071,143607883.5,11,pack_famille,143.6078835
+100050,Rentrée_Assurance,Rentrée_Assurance_groupe_2,assurance étudiant,EXACT,TABLET,2025-03-30,277,1662,123114114.0,25,rentrée_assurance,123.114114
+100051,Pack_Famille,Pack_Famille_groupe_1,assurance vie famille,PHRASE,MOBILE,2025-04-12,277,3324,86984716.5,47,pack_famille,86.9847165
+100052,Offre_Hiver,Offre_Hiver_groupe_2,assurance hivernale,PHRASE,DESKTOP,2025-04-14,266,1596,137527776.0,23,offre_hiver,137.527776
+100053,Offre_Hiver,Offre_Hiver_groupe_1,assurance hivernale,EXACT,TABLET,2025-04-03,224,1568,74722684.5,42,offre_hiver,74.7226845
+100054,Pack_Famille,Pack_Famille_groupe_1,assurance vie famille,PHRASE,MOBILE,2025-04-05,147,1176,34963875.0,62,pack_famille,34.963875
+100055,Offre_Hiver,Offre_Hiver_groupe_1,protection maison hiver,PHRASE,MOBILE,2025-03-18,229,3664,174845137.5,87,offre_hiver,174.8451375
+100056,Pack_Famille,Pack_Famille_groupe_1,assurance vie famille,EXACT,DESKTOP,2025-03-25,134,804,190242337.5,4,pack_famille,190.2423375
+100057,Pack_Famille,Pack_Famille_groupe_2,protection famille complète,EXACT,TABLET,2025-04-15,50,550,92995348.5,3,pack_famille,92.9953485
+100058,Promo_Printemps,Promo_Printemps_groupe_3,promo assurance logement,PHRASE,MOBILE,2025-03-24,257,4883,35971731.0,87,promo_printemps,35.971731
+100059,Pack_Famille,Pack_Famille_groupe_1,assurance vie famille,PHRASE,DESKTOP,2025-03-23,41,369,117620937.0,1,pack_famille,117.620937
+100060,Offre_Hiver,Offre_Hiver_groupe_1,assurance tempête,EXACT,TABLET,2025-03-18,30,180,62929255.5,6,offre_hiver,62.9292555
+100061,Offre_Hiver,Offre_Hiver_groupe_2,assurance hivernale,EXACT,TABLET,2025-04-08,152,2128,76646443.5,60,offre_hiver,76.6464435
+100062,Leads_Auto,Leads_Auto_groupe_2,meilleure assurance auto,EXACT,MOBILE,2025-03-27,222,1554,34328700.0,72,leads_auto,34.3287
+100063,Offre_Hiver,Offre_Hiver_groupe_1,assurance tempête,EXACT,DESKTOP,2025-04-12,154,1232,76344381.0,32,offre_hiver,76.344381
+100064,Offre_Hiver,Offre_Hiver_groupe_3,protection maison hiver,BROAD,DESKTOP,2025-04-08,171,1197,184984618.5,48,offre_hiver,184.9846185
+100065,Pack_Famille,Pack_Famille_groupe_2,protection famille complète,EXACT,TABLET,2025-03-17,131,1048,203287972.5,6,pack_famille,203.2879725
+100066,Leads_Auto,Leads_Auto_groupe_3,meilleure assurance auto,PHRASE,TABLET,2025-04-08,264,5016,85046949.0,65,leads_auto,85.046949
+100067,Leads_Auto,Leads_Auto_groupe_2,assurance auto jeune conducteur,BROAD,MOBILE,2025-03-31,239,3824,53304381.0,15,leads_auto,53.304381
+100068,Rentrée_Assurance,Rentrée_Assurance_groupe_1,assurance étudiant,PHRASE,TABLET,2025-03-17,211,4220,148635747.0,51,rentrée_assurance,148.635747
+100069,Promo_Printemps,Promo_Printemps_groupe_2,promo assurance logement,EXACT,MOBILE,2025-03-18,108,1620,188955760.5,19,promo_printemps,188.9557605
+100070,Offre_Hiver,Offre_Hiver_groupe_1,assurance hivernale,BROAD,TABLET,2025-03-19,114,570,118137622.5,37,offre_hiver,118.1376225
+100071,Leads_Auto,Leads_Auto_groupe_2,assurance auto jeune conducteur,BROAD,MOBILE,2025-04-11,253,1265,154016280.0,117,leads_auto,154.01628
+100072,Rentrée_Assurance,Rentrée_Assurance_groupe_2,assurance étudiant,EXACT,DESKTOP,2025-04-10,28,224,193668120.0,0,rentrée_assurance,193.66812
+100073,Pack_Famille,Pack_Famille_groupe_1,assurance vie famille,EXACT,DESKTOP,2025-04-13,288,3744,209634867.0,129,pack_famille,209.634867
+100074,Rentrée_Assurance,Rentrée_Assurance_groupe_2,assurance scolaire,PHRASE,DESKTOP,2025-04-10,71,568,13985104.5,14,rentrée_assurance,13.9851045
+100075,Rentrée_Assurance,Rentrée_Assurance_groupe_1,assurance scolaire,PHRASE,MOBILE,2025-04-14,30,450,115831930.5,0,rentrée_assurance,115.8319305
+100076,Leads_Auto,Leads_Auto_groupe_1,devis assurance voiture,PHRASE,TABLET,2025-03-24,197,1182,127127277.0,61,leads_auto,127.127277
+100077,Leads_Auto,Leads_Auto_groupe_3,devis assurance voiture,EXACT,DESKTOP,2025-03-22,107,1498,172510879.5,5,leads_auto,172.5108795
+100078,Offre_Hiver,Offre_Hiver_groupe_3,protection maison hiver,BROAD,DESKTOP,2025-03-25,147,2499,213517161.0,71,offre_hiver,213.517161
+100079,Promo_Printemps,Promo_Printemps_groupe_3,assurance habitation pas chère,EXACT,MOBILE,2025-04-13,290,4350,22051822.5,124,promo_printemps,22.0518225
+100080,Rentrée_Assurance,Rentrée_Assurance_groupe_3,rentrée mutuelle santé,PHRASE,DESKTOP,2025-03-30,215,3655,41534302.5,97,rentrée_assurance,41.5343025
+100081,Promo_Printemps,Promo_Printemps_groupe_3,promo assurance logement,EXACT,TABLET,2025-03-23,241,3133,143901157.5,75,promo_printemps,143.9011575
+100082,Offre_Hiver,Offre_Hiver_groupe_3,protection maison hiver,EXACT,TABLET,2025-04-04,177,2301,173460199.5,76,offre_hiver,173.4601995
+100083,Rentrée_Assurance,Rentrée_Assurance_groupe_1,assurance scolaire,PHRASE,DESKTOP,2025-04-14,147,2058,54261760.5,50,rentrée_assurance,54.2617605
+100084,Offre_Hiver,Offre_Hiver_groupe_1,assurance hivernale,EXACT,DESKTOP,2025-04-01,259,1813,57335710.5,118,offre_hiver,57.3357105
+100085,Pack_Famille,Pack_Famille_groupe_1,assurance famille nombreuse,BROAD,TABLET,2025-03-29,24,456,67874962.5,7,pack_famille,67.8749625
+100086,Pack_Famille,Pack_Famille_groupe_3,assurance vie famille,BROAD,MOBILE,2025-03-26,109,1635,44288460.0,15,pack_famille,44.28846
+100087,Pack_Famille,Pack_Famille_groupe_2,protection famille complète,PHRASE,TABLET,2025-04-09,193,1158,46638229.5,13,pack_famille,46.6382295
+100088,Pack_Famille,Pack_Famille_groupe_2,assurance famille nombreuse,EXACT,TABLET,2025-04-13,95,855,57374437.5,36,pack_famille,57.3744375
+100089,Promo_Printemps,Promo_Printemps_groupe_3,devis assurance printemps,EXACT,MOBILE,2025-03-22,283,5660,52113060.0,123,promo_printemps,52.11306
+100090,Promo_Printemps,Promo_Printemps_groupe_3,devis assurance printemps,BROAD,MOBILE,2025-04-02,43,860,52638498.0,11,promo_printemps,52.638498
+100091,Rentrée_Assurance,Rentrée_Assurance_groupe_3,rentrée mutuelle santé,PHRASE,DESKTOP,2025-03-25,299,5980,164932119.0,46,rentrée_assurance,164.932119
+100092,Pack_Famille,Pack_Famille_groupe_1,protection famille complète,EXACT,MOBILE,2025-03-20,206,2678,51629832.0,65,pack_famille,51.629832
+100093,Leads_Auto,Leads_Auto_groupe_2,devis assurance voiture,EXACT,MOBILE,2025-04-15,11,165,30576672.0,3,leads_auto,30.576672
+100094,Leads_Auto,Leads_Auto_groupe_3,assurance auto jeune conducteur,EXACT,MOBILE,2025-04-14,187,2431,196320618.0,28,leads_auto,196.320618
+100095,Leads_Auto,Leads_Auto_groupe_1,assurance auto jeune conducteur,PHRASE,TABLET,2025-03-28,17,170,84103065.0,0,leads_auto,84.103065
+100096,Offre_Hiver,Offre_Hiver_groupe_2,assurance tempête,PHRASE,MOBILE,2025-03-18,54,918,224833981.5,20,offre_hiver,224.8339815
+100097,Promo_Printemps,Promo_Printemps_groupe_3,promo assurance logement,EXACT,TABLET,2025-03-25,137,2740,209795634.0,0,promo_printemps,209.795634
+100098,Rentrée_Assurance,Rentrée_Assurance_groupe_2,rentrée mutuelle santé,BROAD,DESKTOP,2025-04-05,19,114,75032226.0,9,rentrée_assurance,75.032226
+100099,Leads_Auto,Leads_Auto_groupe_2,devis assurance voiture,BROAD,TABLET,2025-03-28,241,2651,53891590.5,27,leads_auto,53.8915905
+100100,Pack_Famille,Pack_Famille_groupe_3,assurance vie famille,BROAD,DESKTOP,2025-04-05,18,162,81082350.0,7,pack_famille,81.08235
+100101,Pack_Famille,Pack_Famille_groupe_1,protection famille complète,PHRASE,MOBILE,2025-03-18,112,2128,107105085.0,32,pack_famille,107.105085
+100102,Rentrée_Assurance,Rentrée_Assurance_groupe_2,assurance étudiant,PHRASE,DESKTOP,2025-03-25,114,798,144680494.5,2,rentrée_assurance,144.6804945
+100103,Offre_Hiver,Offre_Hiver_groupe_3,assurance tempête,PHRASE,MOBILE,2025-04-15,281,5339,52293505.5,111,offre_hiver,52.2935055
+100104,Leads_Auto,Leads_Auto_groupe_2,devis assurance voiture,BROAD,DESKTOP,2025-04-15,10,90,162572377.5,0,leads_auto,162.5723775
+100105,Offre_Hiver,Offre_Hiver_groupe_3,assurance hivernale,PHRASE,TABLET,2025-03-19,29,551,35969589.0,8,offre_hiver,35.969589
+100106,Promo_Printemps,Promo_Printemps_groupe_2,promo assurance logement,EXACT,DESKTOP,2025-03-24,81,405,170381155.5,7,promo_printemps,170.3811555
+100107,Offre_Hiver,Offre_Hiver_groupe_3,assurance tempête,BROAD,DESKTOP,2025-04-01,262,3406,50745829.5,111,offre_hiver,50.7458295
+100108,Promo_Printemps,Promo_Printemps_groupe_3,promo assurance logement,PHRASE,MOBILE,2025-03-21,117,936,30689271.0,14,promo_printemps,30.689271
+100109,Pack_Famille,Pack_Famille_groupe_2,protection famille complète,PHRASE,TABLET,2025-04-11,208,2496,8236858.5,57,pack_famille,8.2368585
+100110,Offre_Hiver,Offre_Hiver_groupe_2,assurance hivernale,PHRASE,DESKTOP,2025-04-06,223,4237,76028665.5,30,offre_hiver,76.0286655
+100111,Offre_Hiver,Offre_Hiver_groupe_2,protection maison hiver,EXACT,TABLET,2025-03-31,126,882,77454342.0,43,offre_hiver,77.454342
+100112,Offre_Hiver,Offre_Hiver_groupe_2,assurance tempête,BROAD,DESKTOP,2025-03-30,212,3816,156329185.5,89,offre_hiver,156.3291855
+100113,Offre_Hiver,Offre_Hiver_groupe_3,protection maison hiver,PHRASE,MOBILE,2025-04-04,145,2755,203331771.0,66,offre_hiver,203.331771
+100114,Leads_Auto,Leads_Auto_groupe_3,assurance auto jeune conducteur,BROAD,TABLET,2025-04-05,62,620,128560549.5,18,leads_auto,128.5605495
+100115,Offre_Hiver,Offre_Hiver_groupe_1,assurance hivernale,PHRASE,MOBILE,2025-03-31,148,2220,175091800.5,10,offre_hiver,175.0918005
+100116,Promo_Printemps,Promo_Printemps_groupe_2,assurance habitation pas chère,PHRASE,DESKTOP,2025-04-02,69,483,87166008.0,7,promo_printemps,87.166008
+100117,Pack_Famille,Pack_Famille_groupe_1,protection famille complète,EXACT,MOBILE,2025-03-29,282,3384,16871107.5,88,pack_famille,16.8711075
+100118,Rentrée_Assurance,Rentrée_Assurance_groupe_1,rentrée mutuelle santé,EXACT,TABLET,2025-03-16,81,648,122307718.5,22,rentrée_assurance,122.3077185
+100119,Pack_Famille,Pack_Famille_groupe_3,protection famille complète,EXACT,MOBILE,2025-04-14,88,528,130869634.5,14,pack_famille,130.8696345
+100120,Pack_Famille,Pack_Famille_groupe_2,assurance famille nombreuse,PHRASE,DESKTOP,2025-04-06,185,925,96243844.5,12,pack_famille,96.2438445
+100121,Leads_Auto,Leads_Auto_groupe_1,assurance auto jeune conducteur,EXACT,DESKTOP,2025-03-21,123,984,192366135.0,16,leads_auto,192.366135
+100122,Leads_Auto,Leads_Auto_groupe_2,assurance auto jeune conducteur,EXACT,DESKTOP,2025-03-21,202,4040,194380911.0,27,leads_auto,194.380911
+100123,Leads_Auto,Leads_Auto_groupe_1,meilleure assurance auto,EXACT,TABLET,2025-04-04,170,1870,17926501.5,12,leads_auto,17.9265015
+100124,Offre_Hiver,Offre_Hiver_groupe_1,assurance tempête,BROAD,DESKTOP,2025-03-26,54,378,14161108.5,14,offre_hiver,14.1611085
+100125,Promo_Printemps,Promo_Printemps_groupe_1,devis assurance printemps,PHRASE,DESKTOP,2025-04-12,197,3349,112136976.0,7,promo_printemps,112.136976
+100126,Pack_Famille,Pack_Famille_groupe_1,assurance vie famille,PHRASE,MOBILE,2025-04-15,14,112,186499102.5,6,pack_famille,186.4991025
+100127,Leads_Auto,Leads_Auto_groupe_3,meilleure assurance auto,PHRASE,DESKTOP,2025-04-03,275,2750,183236427.0,19,leads_auto,183.236427
+100128,Offre_Hiver,Offre_Hiver_groupe_3,assurance tempête,BROAD,DESKTOP,2025-04-11,148,740,173097036.0,44,offre_hiver,173.097036
+100129,Promo_Printemps,Promo_Printemps_groupe_2,devis assurance printemps,PHRASE,TABLET,2025-03-20,241,3374,32852664.0,61,promo_printemps,32.852664
+100130,Promo_Printemps,Promo_Printemps_groupe_2,assurance habitation pas chère,EXACT,DESKTOP,2025-04-04,107,963,14001642.0,4,promo_printemps,14.001642
+100131,Promo_Printemps,Promo_Printemps_groupe_3,assurance habitation pas chère,PHRASE,TABLET,2025-04-08,200,2800,68289448.5,61,promo_printemps,68.2894485
+100132,Promo_Printemps,Promo_Printemps_groupe_2,promo assurance logement,PHRASE,MOBILE,2025-03-17,229,3664,21990213.0,22,promo_printemps,21.990213
+100133,Rentrée_Assurance,Rentrée_Assurance_groupe_3,rentrée mutuelle santé,PHRASE,MOBILE,2025-03-29,92,1840,104416011.0,1,rentrée_assurance,104.416011
+100134,Pack_Famille,Pack_Famille_groupe_1,protection famille complète,PHRASE,DESKTOP,2025-04-13,263,5260,194068539.0,40,pack_famille,194.068539
+100135,Leads_Auto,Leads_Auto_groupe_2,assurance auto jeune conducteur,EXACT,DESKTOP,2025-04-03,173,2768,113670490.5,12,leads_auto,113.6704905
+100136,Pack_Famille,Pack_Famille_groupe_2,assurance famille nombreuse,BROAD,DESKTOP,2025-03-28,289,5202,132577087.5,74,pack_famille,132.5770875
+100137,Leads_Auto,Leads_Auto_groupe_1,devis assurance voiture,BROAD,MOBILE,2025-03-19,118,944,5038897.5,14,leads_auto,5.0388975
+100138,Promo_Printemps,Promo_Printemps_groupe_1,promo assurance logement,PHRASE,TABLET,2025-03-30,252,3024,154715539.5,11,promo_printemps,154.7155395
+100139,Pack_Famille,Pack_Famille_groupe_1,assurance vie famille,PHRASE,DESKTOP,2025-03-23,122,1464,151193164.5,40,pack_famille,151.1931645
+100140,Offre_Hiver,Offre_Hiver_groupe_3,protection maison hiver,PHRASE,MOBILE,2025-03-17,13,234,202192092.0,2,offre_hiver,202.192092
+100141,Pack_Famille,Pack_Famille_groupe_2,protection famille complète,PHRASE,DESKTOP,2025-03-26,69,828,100203709.5,3,pack_famille,100.2037095
+100142,Leads_Auto,Leads_Auto_groupe_3,assurance auto jeune conducteur,EXACT,MOBILE,2025-04-08,165,1155,73339128.0,75,leads_auto,73.339128
+100143,Rentrée_Assurance,Rentrée_Assurance_groupe_3,assurance étudiant,PHRASE,TABLET,2025-03-19,15,255,35118283.5,0,rentrée_assurance,35.1182835
+100144,Rentrée_Assurance,Rentrée_Assurance_groupe_1,assurance étudiant,PHRASE,DESKTOP,2025-04-03,237,2133,196141770.0,13,rentrée_assurance,196.14177
+100145,Pack_Famille,Pack_Famille_groupe_3,assurance famille nombreuse,EXACT,MOBILE,2025-04-11,212,1696,17268025.5,59,pack_famille,17.2680255
+100146,Leads_Auto,Leads_Auto_groupe_3,meilleure assurance auto,BROAD,MOBILE,2025-03-25,259,5180,183900654.0,116,leads_auto,183.900654
+100147,Offre_Hiver,Offre_Hiver_groupe_3,assurance tempête,EXACT,MOBILE,2025-04-01,15,240,143925849.0,6,offre_hiver,143.925849
+100148,Promo_Printemps,Promo_Printemps_groupe_3,promo assurance logement,EXACT,TABLET,2025-04-03,23,161,92948895.0,11,promo_printemps,92.948895
+100149,Leads_Auto,Leads_Auto_groupe_1,assurance auto jeune conducteur,PHRASE,MOBILE,2025-03-27,180,1440,109060965.0,28,leads_auto,109.060965
+100150,Offre_Hiver,Offre_Hiver_groupe_3,assurance hivernale,EXACT,MOBILE,2025-04-01,119,2261,187713949.5,54,offre_hiver,187.7139495
+100151,Pack_Famille,Pack_Famille_groupe_3,protection famille complète,EXACT,TABLET,2025-04-15,126,756,82552711.5,0,pack_famille,82.5527115
+100152,Promo_Printemps,Promo_Printemps_groupe_2,promo assurance logement,BROAD,TABLET,2025-04-08,81,405,11955064.5,35,promo_printemps,11.9550645
+100153,Promo_Printemps,Promo_Printemps_groupe_1,assurance habitation pas chère,EXACT,TABLET,2025-04-09,77,385,112049356.5,8,promo_printemps,112.0493565
+100154,Rentrée_Assurance,Rentrée_Assurance_groupe_1,rentrée mutuelle santé,BROAD,DESKTOP,2025-03-20,300,4200,35473522.5,102,rentrée_assurance,35.4735225
+100155,Pack_Famille,Pack_Famille_groupe_3,protection famille complète,EXACT,MOBILE,2025-03-30,108,648,187767630.0,5,pack_famille,187.76763
+100156,Promo_Printemps,Promo_Printemps_groupe_3,devis assurance printemps,BROAD,TABLET,2025-04-15,215,3870,200349373.5,67,promo_printemps,200.3493735
+100157,Leads_Auto,Leads_Auto_groupe_1,assurance auto jeune conducteur,PHRASE,TABLET,2025-03-21,97,1261,214838950.5,16,leads_auto,214.8389505
+100158,Rentrée_Assurance,Rentrée_Assurance_groupe_2,assurance scolaire,PHRASE,TABLET,2025-03-31,187,3553,168104448.0,93,rentrée_assurance,168.104448
+100159,Leads_Auto,Leads_Auto_groupe_1,devis assurance voiture,EXACT,TABLET,2025-03-30,149,2086,149779831.5,25,leads_auto,149.7798315
+100160,Offre_Hiver,Offre_Hiver_groupe_1,assurance tempête,PHRASE,MOBILE,2025-03-27,63,315,50250933.0,26,offre_hiver,50.250933
+100161,Rentrée_Assurance,Rentrée_Assurance_groupe_3,assurance étudiant,EXACT,MOBILE,2025-04-09,299,4784,148291659.0,39,rentrée_assurance,148.291659
+100162,Promo_Printemps,Promo_Printemps_groupe_3,promo assurance logement,EXACT,MOBILE,2025-04-01,223,2676,138780778.5,85,promo_printemps,138.7807785
+100163,Offre_Hiver,Offre_Hiver_groupe_1,assurance tempête,PHRASE,MOBILE,2025-04-10,79,395,64387584.0,14,offre_hiver,64.387584
+100164,Promo_Printemps,Promo_Printemps_groupe_3,devis assurance printemps,PHRASE,MOBILE,2025-04-08,287,5740,111867574.5,135,promo_printemps,111.8675745
+100165,Leads_Auto,Leads_Auto_groupe_1,meilleure assurance auto,BROAD,TABLET,2025-04-04,109,1199,71052277.5,49,leads_auto,71.0522775
+100166,Leads_Auto,Leads_Auto_groupe_3,meilleure assurance auto,BROAD,DESKTOP,2025-03-28,24,288,93937099.5,9,leads_auto,93.9370995
+100167,Rentrée_Assurance,Rentrée_Assurance_groupe_1,rentrée mutuelle santé,BROAD,MOBILE,2025-03-18,295,5310,94322403.0,106,rentrée_assurance,94.322403
+100168,Offre_Hiver,Offre_Hiver_groupe_2,assurance hivernale,PHRASE,MOBILE,2025-04-14,22,286,122951074.5,8,offre_hiver,122.9510745
+100169,Leads_Auto,Leads_Auto_groupe_2,meilleure assurance auto,PHRASE,DESKTOP,2025-04-10,26,156,97397559.0,1,leads_auto,97.397559
+100170,Leads_Auto,Leads_Auto_groupe_1,devis assurance voiture,PHRASE,MOBILE,2025-03-17,289,1445,46416235.5,42,leads_auto,46.4162355
+100171,Pack_Famille,Pack_Famille_groupe_1,protection famille complète,PHRASE,DESKTOP,2025-04-07,218,1744,187636311.0,88,pack_famille,187.636311
+100172,Offre_Hiver,Offre_Hiver_groupe_1,protection maison hiver,PHRASE,DESKTOP,2025-04-07,185,2035,132489985.5,17,offre_hiver,132.4899855
+100173,Offre_Hiver,Offre_Hiver_groupe_2,assurance hivernale,PHRASE,TABLET,2025-03-29,107,1926,214718188.5,30,offre_hiver,214.7181885
+100174,Pack_Famille,Pack_Famille_groupe_3,assurance famille nombreuse,PHRASE,TABLET,2025-03-27,52,936,181389528.0,10,pack_famille,181.389528
+100175,Promo_Printemps,Promo_Printemps_groupe_1,assurance habitation pas chère,EXACT,DESKTOP,2025-04-12,179,2685,120979912.5,82,promo_printemps,120.9799125
+100176,Leads_Auto,Leads_Auto_groupe_1,assurance auto jeune conducteur,BROAD,MOBILE,2025-04-01,180,2340,164964424.5,6,leads_auto,164.9644245
+100177,Rentrée_Assurance,Rentrée_Assurance_groupe_3,rentrée mutuelle santé,BROAD,TABLET,2025-04-03,208,3744,192618144.0,93,rentrée_assurance,192.618144
+100178,Leads_Auto,Leads_Auto_groupe_2,meilleure assurance auto,BROAD,DESKTOP,2025-04-02,93,1860,122402547.0,41,leads_auto,122.402547
+100179,Pack_Famille,Pack_Famille_groupe_3,protection famille complète,PHRASE,TABLET,2025-03-24,291,1455,52236036.0,71,pack_famille,52.236036
